@@ -6,7 +6,8 @@
 }
 
 header.style-9 {
-  background-image: url(../images/head_15_back.png) !important;
+  /* background-image: url(../images/head_15_back.png) !important; */
+  background-color: var(--primary-text);
 }
 
 header.style-9 .info h1 {
@@ -90,7 +91,8 @@ footer.style-9 {
 }
 
 .bg-gradient {
-  background-image: url(../images/head_15_back.png) !important;
+  /* background-image: url(../images/head_15_back.png) !important; */
+  background-color: var(--primary-text);
 }
 
 footer.style-9 .foot {
