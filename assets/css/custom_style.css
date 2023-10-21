@@ -86,3 +86,17 @@ footer.style-9{
 footer.style-9 .foot{
   margin-top: 0;
 }
+
+.choose-us.style-9 .feat-content .img{
+  height: 500px;
+  border-radius: 20px;
+  border: 3px solid var(--secondary-color) !important;
+}
+
+.choose-us.style-9 .feat-content .play_icon{
+  top: 250px !important;
+}
+
+.choose-us.style-9 .feat-content{
+  padding-top: 0px !important;
+}
