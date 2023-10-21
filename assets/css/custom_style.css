@@ -8,7 +8,9 @@
 header.style-9 {
   /* background-image: url(../images/head_15_back.png) !important; */
   background-image: none;
-  background-color: var(--primary-text);
+  background: #ad5389; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ad5389, #3c1053);
+  background: linear-gradient(to right, #ad5389, #3c1053);
 }
 
 header.style-9 .info h1 {
@@ -88,7 +90,9 @@ header.style-9 .info h1 span {
 }
 
 footer.style-9 {
-  background-color: var(--primary-text) !important;
+  background: #ad5389; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ad5389, #3c1053);
+  background: linear-gradient(to right, #ad5389, #3c1053);
 }
 
 .bg-gradient {
