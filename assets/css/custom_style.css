@@ -154,3 +154,7 @@ footer.style-9 .foot {
 .choose-us.style-9 .feat-content .info h2 {
   color: var(--primary-text) !important;
 }
+
+.section-head.style-9 h6{
+  text-transform: none !important;
+}
